@@ -1,0 +1,1 @@
+C:\Python27\python C:\Users\jalandrah\Documents\game_repo\red_black_yellow_la\crucible.py --noanchor
